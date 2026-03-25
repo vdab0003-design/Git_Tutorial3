@@ -1,0 +1,21 @@
+---
+title: "week2"
+format: 
+      html:
+          theme: cerulean
+      pdf:
+        toc: true
+editor: visual
+author: "Vibhor Dabas"
+---
+
+```{r, message=FALSE, warning=FALSE, echo=FALSE}
+library(rmarkdown)
+library(knitr)
+library(tidyverse)
+library(readr)
+library(kableExtra)
+library(ggplot2)
+```
+
+# Introduction
